@@ -2,7 +2,6 @@ package samples.demo;
 
 public class Location {
 	private String msg;
-	private String msg2;
 	
 	void setter(String msg)
 	{
